@@ -10,14 +10,14 @@
                 <key>URL</key>
                 <string>https://google.com/</string>
                 <key>Label</key>
-                <string>Nom du clip</string>
+                <string>Nomduclip</string>
             </dict>
         </array>
     </dict>
     <key>PayloadOrganization</key>
     <string>CataClisme</string>
     <key>PayloadDisplayName</key>
-    <string>CataClisme test #1</string>
+    <string>CataClismetest1</string>
     <key>PayloadIdentifier</key>
     <string>com.votreorganisation.webclip</string>
     <key>PayloadVersion</key>
