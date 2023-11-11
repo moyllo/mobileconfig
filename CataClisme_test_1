@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <dict>
+        <key>WebClip</key>
+        <array>
+            <dict>
+                <key>URL</key>
+                <string>https://google.com/</string>
+                <key>Label</key>
+                <string>Nom du clip</string>
+            </dict>
+        </array>
+    </dict>
+    <key>PayloadOrganization</key>
+    <string>CataClisme</string>
+    <key>PayloadDisplayName</key>
+    <string>CataClisme test #1</string>
+    <key>PayloadIdentifier</key>
+    <string>com.votreorganisation.webclip</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadUUID</key>
+    <string>ABC123</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+</dict>
+</plist>
